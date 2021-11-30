@@ -10,5 +10,4 @@
 
 連絡先(メールアドレス)
 ### 20120061@kaishi-pu.ac.jp
-### https://twitter.com/kitarize_MS08
 
