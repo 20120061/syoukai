@@ -15,4 +15,4 @@
 連絡先(メールアドレス)
 ### 20120061@kaishi-pu.ac.jp
 リンク
-This site was built using [Twitter](https://twitter.com/kaishi_pu?s=20)
+[Twitter](https://twitter.com/kaishi_pu?s=20)
