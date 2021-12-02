@@ -16,3 +16,4 @@
 ### 20120061@kaishi-pu.ac.jp
 リンク
 [Twitter](https://twitter.com/kaishi_pu?s=20)
+[YouATube](https://www.youtube.com/channel/UCRGOmJoKbzqb1Qzb-QiV12A/featured)
