@@ -10,5 +10,5 @@
 
 連絡先(メールアドレス)
 ### 20120061@kaishi-pu.ac.jp
-![This is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbym_C2-gOTh9RSIMy81PsILvNfTnKyKgwQ&usqp=CAU)
+![This is an image]()
 ![This is an image]()
