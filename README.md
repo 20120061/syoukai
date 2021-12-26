@@ -6,8 +6,8 @@
 ## 性別　男
 ## 年齢　　21　
 ## 趣味　ゲームをすること　配信を見ること
-![This is an image](https://www.irasutoya.com/2018/02/blog-post_485.html)
-![This is an image](https://www.irasutoya.com/2020/06/blog-post_943.html)
+![This is an image](https://4.bp.blogspot.com/-fn9id2B4omo/Wm1yoEjeetI/AAAAAAABJ6c/JHTZKJwMn7cQ-moKMhVGVEcSaD5_jSEkQCLcBGAs/s800/game_friends_income.png)
+![This is an image](https://1.bp.blogspot.com/-ieNqY_PS2go/XuRArpeh33I/AAAAAAABZgk/fAb3e7cZh5sKYlij2vw_33bYPpPQtXhjwCNcBGAsYHQ/s1600/tv_haishin_penlight_man.png)
 
 
 
