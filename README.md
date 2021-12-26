@@ -6,8 +6,8 @@
 ## 性別　男
 ## 年齢　　21　
 ## 趣味　ゲームをすること　配信を見ること
-![This is an image]()
-![This is an image]()
+![This is an image](https://www.irasutoya.com/2018/02/blog-post_485.html)
+![This is an image](https://www.irasutoya.com/2020/06/blog-post_943.html)
 
 
 
